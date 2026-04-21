@@ -23,8 +23,7 @@ NutriPro is a comprehensive, frontend-first diet and nutrition intelligence web 
 ## 🚀 Live Demo
 
 Check out the live deployment of the application here:  
-👉 **[Click Here to view the Live Site](https://annzmaria.github.io/NutriPro/))**  
-*(Note: Replace `YOUR-REPOSITORY-NAME` with your actual GitHub repository name!)*
+👉 **[Click Here to view the Live Site](https://annzmaria.github.io/NutriPro/)**  
 
 ## 💻 Local Installation
 
